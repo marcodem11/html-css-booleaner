@@ -1,0 +1,76 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+header{
+    background: url(../html-css-booleaner/img/pattern.png) #4ea0ff;
+    height: 100px;
+    background-size: 384px;
+}
+header img{
+    width: 200px;
+    margin-top: 45px;
+}
+
+body{
+    margin: 0 auto;
+    width: 1024px;
+}
+
+h1{
+    font-size: 38px;
+}
+
+.autore{
+    font-size: 13px;
+}
+
+.data{
+    font-size: 13px;
+}
+
+.autore a{
+    text-decoration: none;
+    color: ;
+}
+
+.table-row{
+    border-spacing: 0;
+    padding-top: 20px;
+    
+}
+
+thead{
+    color: white;
+    background-color: blue;
+    
+}
+
+th{
+    font-size: 15px;
+    font-weight: bold;
+    
+}
+td{
+    font-size: 15px;
+}
+
+#tr1{
+    background-color: rgb(113, 210, 255);
+    
+}
+
+#tr3{
+    background-color: rgb(113, 210, 255);
+}
+
+h3{
+    color: grey;
+}
+
+.text-style{
+    background-color: yellow;
+}
